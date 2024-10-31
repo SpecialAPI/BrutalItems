@@ -1,0 +1,110 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41cb500cf0f58e74f9a52a8af931edde, type: 3}
+  m_Name: -tk2d
+  m_EditorClassIdentifier: 
+  version: 4
+  spriteAnimationIndex: []
+  fontIndex: []
+  spriteCollectionIndex:
+  - name: BrutalVFXCollection
+    spriteCollectionGUID: eb9ab81b065ae1641bd33644b0ab46ac
+    spriteCollectionDataGUID: eb9ab81b065ae1641bd33644b0ab46ac
+    spriteNames:
+    - scar_001
+    - linked_001
+    - frail_001
+    - focus_001
+    spriteTextureGUIDs:
+    - 
+    - 
+    - 
+    - 
+    spriteTextureTimeStamps:
+    - 0
+    - 0
+    - 0
+    - 0
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: BrutalItemsCollection
+    spriteCollectionGUID: dca9001fbbe25f14c93c1fd71dd70272
+    spriteCollectionDataGUID: dca9001fbbe25f14c93c1fd71dd70272
+    spriteNames:
+    - dumdum_idle_001
+    - trepanation_idle_001
+    - prussianblue_idle_001
+    - defectiverounds_idle_001
+    - pharmaceutical_rollercoaster_idle_001
+    - dewormingpills_idle_001
+    - barelyuzedgauze_idle_001
+    - modernmedicine_idle_001
+    - surrender_idle_001
+    - esotericartifact_idle_001
+    - chainofcommand_idle_001
+    - boxofmedals_idle_001
+    - soggybandages_idle_001
+    - certificateofexemption_idle_001
+    - headofscribe_idle_001
+    - shardofnowak_idle_001
+    spriteTextureGUIDs:
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    - 
+    spriteTextureTimeStamps:
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    - 0
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3
+  - name: BrutalProjectileCollection
+    spriteCollectionGUID: cab21371cf7608b478557728a02ed4d7
+    spriteCollectionDataGUID: cab21371cf7608b478557728a02ed4d7
+    spriteNames:
+    - lobotomyprojectile_001
+    spriteTextureGUIDs:
+    - 
+    spriteTextureTimeStamps:
+    - 0
+    managedSpriteCollection: 0
+    loadable: 0
+    assetName: 
+    version: 3

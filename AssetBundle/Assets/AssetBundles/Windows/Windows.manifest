@@ -1,0 +1,7 @@
+ManifestFileVersion: 0
+CRC: 418272659
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: brutalitems
+      Dependencies: {}

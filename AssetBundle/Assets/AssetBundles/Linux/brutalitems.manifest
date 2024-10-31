@@ -1,0 +1,58 @@
+ManifestFileVersion: 0
+CRC: 1091375084
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4e3766cac34c06dba14769d07c3338b8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd8948c0772be0dd8f647bcff7d85930
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fac570381f34f647b768dc5a5aa1364, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84c7a4b4ee15890498f818262bca0312, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d546f34a90531a14eaba82a43b05b86b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Objects/Items/CertificateOfExemption.prefab
+- Assets/Objects/Items/BarelyUsedGauze.prefab
+- Assets/Objects/Items/DefectiveRounds.prefab
+- Assets/Objects/Items/DewormingPills.prefab
+- Assets/Objects/VFX/FrailVFX.prefab
+- Assets/Objects/Items/BoxOfMedals.prefab
+- Assets/Objects/Projectiles/SynergyLobotomyProjectile.prefab
+- Assets/Objects/Items/Surrender.prefab
+- Assets/Objects/VFX/ScarsVFX.prefab
+- Assets/Collections/ItemCollection/Sprites/surrender_idle_001.png
+- Assets/Objects/Items/ModernMedicine.prefab
+- Assets/Objects/Items/EsotericArtifact.prefab
+- Assets/Objects/VFX/LinkedVFX.prefab
+- Assets/Objects/VFX/FocusVFX.prefab
+- Assets/Objects/Items/PrussianBlue.prefab
+- Assets/Objects/Projectiles/LobotomyProjectile.prefab
+- Assets/Objects/Items/ChainOfCommand.prefab
+- Assets/Objects/Items/HeadOfScribe.prefab
+- Assets/Objects/Items/Trepanation.prefab
+- Assets/Objects/Items/PharmaceuticalRollercoaster.prefab
+- Assets/Objects/Items/SoggyBandages.prefab
+- Assets/Objects/Items/DumDum.prefab
+- Assets/Objects/Items/ShardOfNowak.prefab
+Dependencies: []
