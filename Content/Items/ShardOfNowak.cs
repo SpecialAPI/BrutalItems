@@ -76,7 +76,9 @@ namespace BrutalItems.Content.Items
                 return;
 
             args.ModifiedDamage *= StressfulDamageMult;
-            UITools.DoJumpingText("Crit!", hh.gameActor.CenterPosition, hh.specRigidbody.UnitCenter.y - hh.specRigidbody.UnitBottomCenter.y, Color.white);
+
+            if(hh.specRigidbody != null && hh.gameActor != null)
+                UITools.DoJumpingText("Crit!", hh.gameActor.CenterPosition, hh.specRigidbody.UnitCenter.y - hh.specRigidbody.UnitBottomCenter.y, Color.white);
         }
 
         public void FocusPlayer()

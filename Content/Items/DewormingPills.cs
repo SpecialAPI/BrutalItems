@@ -61,7 +61,8 @@ namespace BrutalItems.Content.Items
 
             args.ModifiedDamage *= mult;
 
-            UITools.DoJumpingText("Crit!", hh.gameActor.CenterPosition, hh.specRigidbody.UnitCenter.y - hh.specRigidbody.UnitBottomCenter.y, Color.white);
+            if(hh.gameActor != null)
+                UITools.DoJumpingText("Crit!", hh.gameActor.CenterPosition, hh.specRigidbody.UnitCenter.y - hh.specRigidbody.UnitBottomCenter.y, Color.white);
         }
 
         public override void DisableEffect(PlayerController player)
