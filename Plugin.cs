@@ -15,7 +15,7 @@ namespace BrutalItems
     {
         public const string MOD_GUID = "spapi.etg.brutalitems";
         public const string MOD_NAME = "Brutal Items";
-        public const string MOD_VERSION = "1.0.0";
+        public const string MOD_VERSION = "1.0.1";
         public const string MOD_PREFIX = "spapi";
 
         public static Harmony HarmonyInstance;
